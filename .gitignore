@@ -1,0 +1,13 @@
+# Archivos de configuración local
+.env
+
+# Dependencias instaladas
+node_modules/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Compilados o generados
+dist/
+build/
